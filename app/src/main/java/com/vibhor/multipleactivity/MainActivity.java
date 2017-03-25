@@ -20,11 +20,6 @@ public class MainActivity extends AppCompatActivity {
     ArrayAdapter<String> userAdapter;
     Intent intent;
 
-    public void jumptoMain2Activity(View view){
-
-
-    }
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
